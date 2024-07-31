@@ -1,5 +1,5 @@
 PowerBI-Financial-Visualization
-https://1drv.ms/u/c/0bfe3b2b1b3f0046/EdFIpTNBm3tMu229-rUzbqYBfSFaAOqtvEinOQ7O50GIWA?e=faI64X&authuser=0
+https://1drv.ms/u/c/0bfe3b2b1b3f0046/EdFIpTNBm3tMu229-rUzbqYBfSFaAOqtvEinOQ7O50GIWA?e=0lwRGV
 
 This project represents an analysis of financial data using Microsoft Power BI.Tis data set includes information about sales ,cost ,discounts and performance of different
 products,segments and countries.The objective is to provide insight into overall sale performance , profit and key factors including the financial outcomes.
